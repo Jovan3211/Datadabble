@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatadabblePrototype", "DatadabblePrototype\DatadabblePrototype.csproj", "{47C576B8-A629-4C86-A1CD-1A0F1EB05440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C576B8-A629-4C86-A1CD-1A0F1EB05440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C576B8-A629-4C86-A1CD-1A0F1EB05440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C576B8-A629-4C86-A1CD-1A0F1EB05440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C576B8-A629-4C86-A1CD-1A0F1EB05440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B802FC2-A64C-496F-99B8-334C2CC75DF4}
+	EndGlobalSection
+EndGlobal
